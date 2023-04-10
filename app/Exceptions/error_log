@@ -1,0 +1,8 @@
+[27-Dec-2022 22:00:30 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Exceptions\Handler" not found in /home/sourovpa/public_html/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/sourovpa/public_html/app/Exceptions/Handler.php on line 8
+[08-Feb-2023 02:24:37 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Exceptions\Handler" not found in /home/sourovpa/public_html/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/sourovpa/public_html/app/Exceptions/Handler.php on line 8

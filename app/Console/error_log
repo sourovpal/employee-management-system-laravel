@@ -1,0 +1,8 @@
+[27-Dec-2022 18:59:57 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Console\Kernel" not found in /home/sourovpa/public_html/app/Console/Kernel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/sourovpa/public_html/app/Console/Kernel.php on line 8
+[08-Feb-2023 00:40:47 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Console\Kernel" not found in /home/sourovpa/public_html/app/Console/Kernel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/sourovpa/public_html/app/Console/Kernel.php on line 8
